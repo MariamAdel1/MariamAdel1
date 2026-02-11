@@ -1,7 +1,4 @@
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=MariamAdel1=Profile%20views&color=0e75b6&style=flat" alt="views" /> 
-</p>
 
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Mariam</h1>
 
