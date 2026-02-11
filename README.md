@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on **AI & Data Science projects**
 - 💬 Ask me about **Python, ML, NLP**
 - 📫 How to reach me: **mrriamaddel@gmail.com**
-- ⚡ Fun fact: **I love exploring AI and building smart systems**
+
 
 ---
 
