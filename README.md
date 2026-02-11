@@ -33,15 +33,15 @@
 ---
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MariamAdel1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariamAdel1&theme=tokyonight" />
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamAdel1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/MariamAdel1/MariamAdel1/edit/main/README.md" target="blank">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=MariamAdel1&theme=onedark" />
   </a>
 </p>
 
@@ -71,4 +71,8 @@
 ---
 
 <h1 align='center'>🐍 Watch my contributions get eaten!</h1>
+<p align="center">
+  <img src="https://github.com/MariamAdel1/MariamAdel1/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 
